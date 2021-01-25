@@ -1,0 +1,351 @@
+	Sentence	Argument
+0	 Technology inspires children ' s creativity instead of weakening it	0
+1	 Technology accelerates human ' s evolving pace .	0
+2	 With advanced technology , many things that seemed impossible in the past , have become realities .	0
+3	 For example , people in the past never dreamed of talking to anyone whenever they wanted or see someone overseas on a computer screen , both of these can be achieved with cellphone and internet .	0
+4	 However , some people point that technology has made children less creative .	0
+5	 I don ' t deny that technology may have some negative effects on children , but I think technology makes children even more creative .	1
+6	 First , technology inspires children to create new things .	1
+7	 Children are curious about everything around them , so when they come across a high - tech product like a cellphone , they will be obsessed with its mysterious functions and eager to know how it works .	1
+8	 For example , Bill Gates was attracted by the original huge computer , then he did everything he could to understand how it worked .	1
+9	 After he had figured out all the stuff , he then began to promote the computer .	1
+10	 In the end , he successfully invented a computer that was easy to use and lightweight .	1
+11	 Therefore , instead of interfering children ' s creativity , technology actually encourages children to learn and to create .	1
+12	 Second , technology widen children ' s knowledge .	1
+13	 In the past , children were only able to see things from one perspective .	1
+14	 However , with highly advanced technology , children are able to get information from foreign countries and even communicate with foreign friends .	1
+15	 Therefore , they will be able to learn about different cultures and different ways of thinking .	1
+16	 Knowledge is the base of creativity .	1
+17	 The diverse knowledge that children gained from different parts of the world , inspires children and encourage them to create new things .	1
+18	 Admittedly , technology may have negative effects on children .	1
+19	 Technology has made life too easy for most children .	1
+20	 In comfortable conditions , children may be satisfied with the world around them and refuse to make a change .	1
+21	 Nonetheless , with the development of technology , increasingly more young people become obsessed with high - tech products .	1
+22	 They kept researching new technology and became successful at a very young age .	1
+23	 Technology that widen the gap between rich and poor ?	0
+24	 Technology , in the past two hundred years , has taken a dramatic progress in many fields of our society , such as telecommunications , manufacturing and buildings , etc .	0
+25	 Certainly , technologies have also contributed to the great change of our daily lives .	0
+26	 However , today some people consider that the range of technology regarding of public has a negative effect on increasing the gap between rich and poor .	0
+27	 Personally , I find it hard for me to agree with this opinion by the following reasons .	0
+28	 In the first instance , the progress of material technology leads to the sharp fall of price of a great number of products .	1
+29	 About ten years ago , mobile phones ware very expensive for most members of my country , only a few of rich individuals have enough money to buy one .	1
+30	 Today , mobile phones become a common one of household items , which due to the cheaper materials and better producing technologies .	1
+31	 Thus , most members of our society can benefit from the consequences of technical advancements , especially the poor people .	1
+32	 Secondly , technical developments improve productivity , which help people to escape from daily chores , and invest more time and energy in studying and living a more meaningful life .	1
+33	 With the development of Internet , we can enjoy the pleasure and conveniences which it brings about for us every day .	1
+34	 In the past time , we had to spend a lot of time searching information and waiting for letters of our friends who lived far away from us .	1
+35	 Nowadays , we can talk with our friends online , no matter where we are and how far between us .	1
+36	 In addition , the Internet gives everyone access to the same information , this therefore leads to greater equality between individuals .	1
+37	 Undoubtedly , everything has two sides and technology is not an exception .	0
+38	 To some extent , the gap between rich people and poor is widen by technology , because only the rich people have ability to afford the expensive high - tech products , and these products can help them to earn more in return .	1
+39	 Nevertheless , I think it is a limp opposition to the remarkable advantages of technology , and technology is not the root cause of the gap .	1
+40	 In conclusion , the good technology bringing to us is undeniable .	1
+41	 Under proper use of technology , the human being can be benefit a lot and perpetually from the advancement of it .	1
+42	 Benefits of students ' unpaid work	0
+43	 The purpose of this essay is to discuss what can students and the organizations benefit from the activity that the students sent by their schools to work for companies without salaries .	0
+44	 In this essay , I would start by analyzing the advantages for doing this for both students and companies , and then I would draw a conclusion at the end .	0
+45	 To begin with , students can learn invaluable experiences through the period of time working for the institutions they are assigned to .	1
+46	 In most school curriculums , the courses are theoretical and often by instructors speaking to students sitting in the classroom .	1
+47	 As a result , students might have little idea of the real challenges or the true situation when they enter the workforce after graduation .	1
+48	 For this reason , the internship , although without pay , can give them the experiences that money cannot buy .	1
+49	 As for the companies , the unpaid interns can no doubt save some money .	1
+50	 In addition , the younger generations can help them generate new ideas as the students are not bound to restricted workload and they tend to have greater imagination , which can be essentially helpful when they are making a new advertisement or slogan .	1
+51	 Moreover they can start looking for potential employees and begin the training .	1
+52	 Therefore , companies save time and resources for searching new staffs and organizing an orientation .	1
+53	 To sum up , students can learn outside the textbook and classroom with a real working experiences that can be a great opportunity for future job consideration whereas organizations earn much more as they can not only save time and money but also be enlightened by what young people have to say .	1
+54	 Advanced fertilizers and machine for farmers , good or bad ?	0
+55	 In recent years , the discussion about the agriculture development has become a controversy .	0
+56	 While some appear to believe that advanced plant foods incorporate with newly developed devices significantly reduce the cost of producing farm products , others argue that this collaboration exerts a series of negative effects to people ' s health condition and the society .	0
+57	 Admittedly , applying the advanced fertilizers in combine with the automatic reaping resources increase farmers ' economic profit .	1
+58	 This is because artificial fertilizers catalyze the capacity of each inch of farmland in order to churn out the crops , and automatic machinery enhances the work efficiency of the harvest .	1
+59	 Consequently , the production and labour cost of each kilogram of the agriculture products dramatically decreased .	1
+60	 However , high - tech fertilizers pose a potential threat to individuals ' health well - being .	1
+61	 Unlike the organic plant foods , industrialized fertilizers are made of unusual chemicals , which are not only varying the gene of crops into those unknown substances but also remaining inside of plants permanently .	1
+62	 In this case , consumers who intake those fertilized products on a regular base tend to suffer a series of disease in the future .	1
+63	 Moreover , excessively relying on the electronic equipment for harvest causes several impacts to the society .	1
+64	 One is that it worsens the air pollution by releasing the excessive exhaust emission .	1
+65	 In contrast , manual harvest prevents severe environmental damages .	1
+66	 For another , mechanical reaper causes the rise of the unemployment rate in the farming industry , possibly because high - end reaping plants replace a large number of workers in the fields .	1
+67	 In conclusion , even though newly developed plant foods and machinery make significant financial success for the farmers , it is convincing that the demerits of applying these new developments in the agriculture industry cannot be overlooked .	1
+68	 Every student either male or female should be given equal opportunity	0
+69	 In today ' s context , education is the most significant factor which ultimately determines one ' s future .	0
+70	 In my personal opinion , I am totally agreed with the view that there should not be any room for partiality in terms of gender while allocating seats for students in every university courses .	1
+71	 There appear to be various reasons often strike in my mind in support of this position .	0
+72	 To begin with , judging student ' s skills and abilities should only be based on their academic qualifications and talents rather than gender in particular .	1
+73	 Nowadays , both male and female students are equally competitive to each other and deserve to produce impressive results in various field of education .	1
+74	 In India , for example , female students are more often likely to grab more number of top scorer positions in every year higher secondary school examinations .	1
+75	 Furthermore , female students are highly interested in learning courses such as mechanical engineering which demands physical activities in their lab workshops , unlike previous generation females .	1
+76	 In addition , due to increasing exposure on current affairs and knowledge on cutting - edge technological developments , female graduates are more willing to take huge responsibilities in their workplace , despite its intensive stress and pressure .	1
+77	 For example , Chanda Kochhar , who is the CEO of India ' s second largest bank called ICICI bank and prominently awarded as the country ' s most powerful female head in business sector .	1
+78	 In conclusion , I am firmly supporting the view , that every student either male or female should be given fairly equal opportunity to purse their education in all university subjects , provided they should meet the required qualifications rather than putting limitations based on their gender .	1
+79	 Government should take interim measures , to regulate admission process for university courses which enables every student to get benefit .	0
+80	 Do you believe that elderly people used to live in a better world ?	0
+81	 Changes are inseparable parts of this world which normally humans are responsible for by manipulating the environment they live in .	0
+82	 Sometimes these changes adversely affect our lives that make elderly people think they used to live in a better world than the modern world the younger generation are experiencing .	0
+83	 I utterly disagree with this opinion due to technological and medical reasons .	0
+84	 We live in an era that technology is developing in the speed of light , steering the world toward a much more convenient place .	1
+85	 A clear - cut example that supports this idea is the invention of smart phones .	1
+86	 The strong navigation system installed on the phones has been rescued lives of many who left alone in remote areas like forests or deserts .	1
+87	 Moreover , some people criticize social networks as tools that have ruined true relationships and friendships by reducing face - to - face communication .	1
+88	 In my opinion though , social networks such as Facebook could foster the ties between friends and family members who are obligatorily far away from each other by keeping them in touch , the thing that was impossible less than 20 years ago .	1
+89	 The phenomenal progress in medical science in the last decade was a huge achievement for human being to make the world a healthier and , thus , a happier place to live in .	1
+90	 Today , even some disabled people with serious vertebral injuries can start doing physical activities like walking again thanks to the continuingly efforts of biomechanical engineers and neurologists .	1
+91	 The advancement in drug delivery systems is another example that could save lives .	1
+92	 To be specific , scientists could invent ways to lead drugs directly to the damaged organs of the body , which is a miraculous breakthrough .	1
+93	 In general , the increase in the average age of human from 50 to around 75 years through last decades is a strong evidence to show how successful human was in medicine .	1
+94	 In conclusion , even though the people from older generation may claim they had better life as there were stronger bonds between family members and friends , I think they are wrong , since they judge the contemporary age through a personal prejudice .	1
+95	 In light of the above - mentioned facts , one can easily conclude that in the current world living standards stand in a much higher level and people are in better conditions socially and physically .	1
+96	 Growing violence in films has affected youngsters in a negative way ?	0
+97	 It ' s obvious that violent behavior is growing more in films in recent 20 years .	0
+98	 This matter has been considered as a way to advertise a film .	0
+99	 From my point of view , I believe that violence in movies has negative effects on youngsters mostly on their behaviors , emotions & study .	1
+100	 In the first place , children behaviors are the most concerning matter which parents are always trying to do their best .	1
+101	 Nowadays children are more involved in TV programs .	1
+102	 Imagine an actor who is a child ' s favorite is doing violent roles .	1
+103	 In this case , the child would imitate the actor ' s behaviors in order to look like to him .	1
+104	 Thus , unexpectedly the violent behavior has effected on child ' s behaviors .	1
+105	 Meanwhile , human beings are very sensitive , especially of youngsters .	1
+106	 For instance , dying is always a disappointing happening .	1
+107	 Furthermore , killing is worse .	1
+108	 Therefore , if these scenes are in TV , they would probably have their negative effects on the viewer who could be a child .	1
+109	 Finally , beside all above mentioned items , the study of youngsters shall always been controlled .	1
+110	 For example , a child watches a frightening movie .	1
+111	 On the other hand , he has to study for the exam .	1
+112	 In this condition , because he is thinking about the movie or whatever has happened in it , it is obvious that he wouldn ' t be able to concentrate on his study perfectly .	1
+113	 Hence , the study of a youngster would affected terribly .	1
+114	 In conclusion , I certainly can say that growing of violence in films have definitely negative effects on youngsters mostly on their study , emotions and behaviors .	1
+115	 Therefore , I think this matter should be controlled by parents or somehow by directors .	0
+116	 Popularity of mobile phones to young people	0
+117	 Nowadays , many young people consider mobile phone as the most important thing in their lives as it keeps them constantly organized and it provides much convenience for them to reach out their families and friends .	0
+118	 Despite all these positive aspects , I think that the popularity of mobile phones to the young generation is a bad development .	1
+119	 First of all , many young owners of cellular phones are struggling at school because they are distracted most of the time with their phones .	1
+120	 Games and applications installed in phones have occupied much of their time , leaving them lesser time for their studies and other school activities .	1
+121	 Similarly , internet capable phones help influence the young ones to become more interested in chatting and social sites rather than doing school works .	1
+122	 In my college days , I was once addicted to a certain game on my cellular phone .	1
+123	 I have spent most of my time trying to reach a higher level to show - off to my friends .	1
+124	 That goal has led me to my lost in interest on doing my homework and I ended up failing one subject in that semester .	1
+125	 Secondly , juveniles who possess mobile phones have great tendencies to become materialistic .	1
+126	 They would not only purchase a phone because of its functionality but also for its brand .	1
+127	 Relatively , these do not come at a significant and inexpensive cost .	1
+128	 Furthermore , most of these juveniles are students so they would need their parents to support them financially for what they want .	1
+129	 An illustration of this unfortunate trend can be seen almost everywhere these days , wherein most teens at an early age own phones which are worth twice the salary of their parents .	1
+130	 This clearly shows that the negative impacts brought about by mobile phones are harmful to a person ' s education and character .	1
+131	 Therefore , I highly discourage the young ones to be overly dependent on mobile phones .	0
+132	 Cheap air travel should be encouraged ?	0
+133	 In recent years , many airlines offer to their customers more and more number of cheap flights .	0
+134	 People have various different views about cheap air travel .	0
+135	 Although there are good arguments in favour of this trend should be encouraged , I personally think that cheap flight can make many serious problem .	1
+136	 It is undeniable that cheap air fares have broadened travel possibilities for many people , particularly for the lower income group .	1
+137	 These days , millions of people can travel around the world for work or pleasure .	1
+138	 They can develop their careers , broad their knowledge , and interact with many other people from varied cultural backgrounds .	1
+139	 Moreover , travels also help to promote the tourist industry development , boost the economy and job markets of many countries .	1
+140	 On the other hand , growing of cheap flights really have negative impact on environment .	1
+141	 Apparently , more flights could mean bigger and busier airport that may be grown the air pollution for people who live and work close to it .	1
+142	 However , the biggest concern is the effect on global warming .	1
+143	 Burning plane fuel can releases carbon dioxid into environment that cause the Earth to heat up .	1
+144	 In fact , while many efforts are being made to reduce CO2 emissions from cars and factories , nothing is being done to reins the airlines .	1
+145	 In conclusion , I would argue that the drawbacks of cheap air fares outweigh the benefits .	1
+146	 However , it does not mean that air travel should be more expensive .	0
+147	 Instead , people should be aware of their responsibility to reduce the emissions caused by their lifestyle choices .	0
+148	 Salary increases and promotions to new positions are not the only ways	0
+149	 It is unquestionable that salary increases and promotions to new positions are very common way to reward employees for good work .	0
+150	 Besides the methods , from my point of view , providing professional training can be effective in encouraging further good work .	1
+151	 My arguments for this point are listed follows .	0
+152	 Firstly , training time can provide employee interesting time outside working office to refresh their mind .	1
+153	 Clearly , in company we always have to deal with so many stressful situations such as negotiating with difficult customer , complaining from boss , etc .	1
+154	 Therefore , we can unleash uncomfortable in training classes by making new friends , joking in class , enjoying new knowledge .	1
+155	 Secondly , employees fell that they are valuable if they are trained .	1
+156	 In this case , the employees know that their company is investing on them for future development of their company .	1
+157	 So obviously , they will think about develop long term career with their company .	1
+158	 For another thing , employees will be very proud of themselves when they are provided training while others don ' t have this opportunity .	1
+159	 Thirdly , providing training will make employees happy with their current job because it help them improve their professional business knowledge .	1
+160	 Having professional training help employees gain more confidence in their business , so I believe that they will finish their jobs with excellent result .	1
+161	 Of course , excellent working result will make them very happy as well as their boss .	1
+162	 In conclusion , providing professional training as a reward for good work has many advantages .	1
+163	 Training can help employees refresh their mind as well as make them happy , focus on work .	1
+164	 Taking into account of all these factors , we may reach the conclusion that training can be effective in encouraging further good work .	1
+165	 Spending money on supporting art or protecting environment	0
+166	 If I had the opportunity to help a company make a decision on spending money either on supporting the arts or helping the environment , I would choose the latter without hesitation for the reasons below .	0
+167	 First , conservation is more urgent now than at any time in history .	1
+168	 According to a statistic conducted by the International Animal Preserving Association , we have only ten percent of the animals that have ever existed , which means that the biodiversity of our home is grievously endangered .	1
+169	 What ' s more , rising sea levels , caused by global warming , have reached a level that is threatening human ' s life in many countries .	1
+170	 If we continue discharging carbon dioxide with non - environmentally friendly cars , nations like Japan will be submerged and weather patterns could change , causing flooding , drought , and an increasing amount of damaging storms .	1
+171	 In short , the ecosystem is in its worst condition ever and if we didn ' t take harsh measures now , we never will .	1
+172	 Furthermore , supporting environment protection will benefit the company eventually .	1
+173	 Nowadays , an increasing amount of people pay more attention to conservation ; therefore , sponsoring conservation is a more efficient method of advertising .	1
+174	 Just imagine if the project your company is sponsoring effectively improves the environment , then your company would be known as an environmentally - friendly company and benefit from it in this consumer - oriented society .	1
+175	 Finally , conservation leads us to a higher standard of living .	1
+176	 I confess that art is one of the best ways of entertaining human beings , but , with exhaust fumes and acid rain , we do not have the energy and enthusiasm to appreciate the paintings or photographs .	1
+177	 Biodiversity and a more beautiful nature are not only the results of abetter environment but also are the necessities of photography and other types of art .	1
+178	 To sum up , although supporting art will benefit the human beings and the company in short - term interest , I still hold the environment protection for long - term interest .	1
+179	 What ' s more important : hard work or luck ?	0
+180	 What do you think when you see a beautiful building ?	0
+181	 And also when you see an airport ?	0
+182	 Do you think they have built by chance ?	0
+183	 Of course don ' t .	0
+184	 Also it is ridiculous if you think world wide webs such as Google , Yahoo etc . created by chance .	0
+185	 Howbeit some people think that luck is cause of a lot of success , but to be frank I cannot agree with them .	0
+186	 I would explore my primary reasons here .	0
+187	 To begin with , famous people are usually diligent people not lucky people .	1
+188	 Hard work make you a professional man / woman which are powerful in his or her job .	1
+189	 I mean , when you work hard you decrease portion of chance in your success .	1
+190	 For example in football game it is said that penalty - kick need good chance to be goal .	1
+191	 Statically the chance of being goal is fifty - fifty .	1
+192	 But I think Ronaldo make a goal from a penalty - kick with more possibility than me .	1
+193	 It is not for which Ronaldo is more fortune than me .	1
+194	 Definitely it is for which he have more practice and exercise than me .	1
+195	 He do a lot of exercise in football field every day , so it is not for which he is luckier than me .	1
+196	 Moreover , we cannot always lean on our luck to be successful .	1
+197	 I don ' t want to disavow the role of luck in success , but as you know it hardly accompany us .	1
+198	 So , for example you prepare for TOEFL or other multiple - choice test which has four option to choose in every question .	1
+199	 You cannot prepare for it without any study and Rely on your luck , even if you be a very lucky .	1
+200	 If you pick up any choice by chance you would fail the exam .	1
+201	 Undoubtedly it is wise advice which you have hard study to success on exam .	1
+202	 Finally , you have to work hard to learn and to get a lot of information before doing a project in good way .	1
+203	 The most fortunate people in the word cannot manufacture an automobile or build a high tower just by her or his chance .	1
+204	 These plans is done by someone who is mastered in his / her work .	1
+205	 Undoubtedly such people do work hard and have great experiences because of their hard works .	1
+206	 In the end , I think any great success need great work not great luck , even though luck is one factor in reaching goal but its impact is extraneous and we must not reckon on luck in our plans .	1
+207	 Higher education should be available only to good students or not	0
+208	 No one can disagree that knowledge is the most important for everyone .	0
+209	 College and university are playing in an important role to provide academic skills to people in order to pursue their goal .	0
+210	 There are an issue that some people agree that this opportunity should be preserved for good students however there are others people who think that everyone should have this chance to gain these advance skills from college or university .	0
+211	 This issue will be discussed .	0
+212	 First of all , many people think that college and university should consider students to study with them only if they are good students .	1
+213	 The reason is that studying in advance education take a huge of money .	1
+214	 College and university do not want people who not qualify for to waste their money in these expensive courses and waste their time .	1
+215	 They believe that only good students have potentials to success programs more that those who are not considered as good students .	1
+216	 Consequently , mediocre students are not have a chance to gain these advance knowledge from college and university .	1
+217	 On the other hand , there are some people think that all students should have equal opportunity to study in higher education .	1
+218	 Of course , higher education take a lot of money and a lot of time however moderate students should have a chance to try .	1
+219	 Everyone that has strongly ambition could pursue and success their goal even they are not classified as a good student because people can change .	1
+220	 With a good environment in college or university is encouraging students to study harder for a good future .	1
+221	 Thus , mediocre students should have opportunity to be trained in college and university .	1
+222	 In conclusion , I personally agree with that college and university should be available for all students who want to pursue their goal .	1
+223	 Students can have opportunity to learn , to practice , to gain more knowledge for their career and for their future .	1
+224	 Studying in college and university is a great opportunity that all students should have .	1
+225	 Different types of tasks endow more colors to our life	0
+226	 In my family , the argument topic between my father and mother always involves my father ' s job .	0
+227	 Five years ago , he quitted his 20 years job as an architectural engineer , and became a landscape painter .	0
+229	 Most of workers have adapted to do same task .	0
+230	 It allows us to achieve more .	1
+231	 As a authoritative dentist in my province , my mother has worked for 25 years .	1
+232	 Gandhi devoted his whole life to fight against British - ruled government and inspire movements for civil rights in India , finally he became the father of the nation .	1
+233	 These examples make it obvious that great achievement needs someone keen on one task for long time .	1
+235	 Doing different tasks makes employees and employers much happier .	1
+236	 Workers , who work for an ordinary company or industry , will be sick of same tasks day by day .	1
+237	 Although they can be familiar with their job , changing of job is what serve to their happier .	1
+238	 Changing the type of work will be fresh and elicit their potential to adapt a new environment , which , according to psychology theories , makes workers relaxed and happier .	1
+239	 To set another example , consider every workers have ability to do several kinds of work , employers will be satisfied by the generating benefits .	1
+240	 They both will be happy because the change of job , not the same task day by day .	1
+241	 Different types of tasks during workday brings more challenges , making life colorful .	1
+242	 Just like a song , if I did not have challenge , life would be blue .	1
+243	 As an engineering researcher , I will surely be disappointed for failure , and exited for new challenges .	1
+244	 New challenges from different tasks amounts far more than more works , it also means through dealing with it , I will obtain more knowledge and experience .	1
+245	 As the saying of a Chinese writer , the color of life is rooted not in Japanese cherry blossom or Canadian maple leaf , but rather there always exists new things and challenge .	1
+246	 After all , doing same task day and night just server to increase our psychological burden , connecting with different types of job is capable give us more colors to our life .	1
+247	 To sum up , I admire my father ' s choice , while the same task give us opportunities to be an expert , like my mom , I still hold the firm view that different types of tasks endow more colors to our life .	1
+248	 Discuss both harms and good of advertising and give your opinion	0
+249	 On these days , with the assistance of advertisement , people easily purchase the best products with detailed information and instruction for their requirement .	0
+250	 Although some people claim that the advantages of advertising are outweigh the advantages , I believe that advertisement bring more benefits than harms to our lives .	1
+251	 On the one hand , it is clear that most advertisements so exaggerate the quality of their products that they often ignore some negative effects of what they sell .	1
+252	 In addition to this , all of things are advertised as the best ones result in the confusing for users in picking out the most suitable goods .	1
+253	 For example , some kinds of shampoo , namely Sunsilk , Clear , Dove are publicized as magic items to recreate injured hair with the number of other benefits .	1
+254	 However , the fact is that not all customers are satisfied with what they bought under the introduction from advertisement .	1
+255	 On the other hand , it is undeniable fact that advertising market gives lots of working opportunities from producers , writers to models and cameramen for all of people as long as their qualification adapt to the demands .	1
+256	 Moreover , advertisement enables to support users in getting accustomed to enterprises and know thoroughly items sold from these producers .	1
+257	 Take Coca cola for an example , this drinking firm is well - known as one of companies invested a major part of their money in advertising .	1
+258	 No wonder why this drinking title becomes more and more familiar with customers around the world .	1
+259	 Last but not least , online advertisement is one of the easiest approaches due to their potential gains such as cheaper cost , convenience and easily observing .	1
+260	 To sum up , everything has its own gains and losses and advertisement is not an exception .	0
+261	 From my point of view , advertising will be better if producers and advertisers are more honest in producing advertisements to give people the general view on one product .	0
+262	 Children can effectively learn from watching television	0
+263	 TV is an immense source of information and pupils can learn and develop various skills by watching it .	0
+264	 But I believe that by allowing students to watch TV at both school and house can adversely impact on their overall growth .	1
+265	 If children spend too much time in front of TV , it will negatively impact their health and study .	1
+266	 It is true that TV is one of the prime source of data and information .	1
+267	 There are international and local news channels like BBC , CNBC , Etv Gujarati , Etv Marathi etc to keep individuals updated about latest happenings .	1
+268	 By watching TV , children can develop skills in extra - curriculum activities .	1
+269	 For example , Cooking programs teach about how to make new dishes and similarly , sports events like cricket , football can teach leadership skills , team building skills , communication skills and many more that can help students in their future jobs .	1
+270	 But on other hand , watching TV for a continuously long hours can adversely impact children health .	1
+271	 For example , they can get poor eyesight in early ages of childhood , and also develop back pain .	1
+272	 Sometimes , students watch restrictive programs not allowed for their ages and this can have major psychological consequences .	1
+273	 Many times , students get addictive to their favorite programs like Cartoon channels , or baseball and easily get distracted from study during exam period and this can seriously impact their grades .	1
+274	 In conclusion , I believe demerits of watching TV outweigh its merits and thus if students were allowed to freely watch TV without any proper controls by parents or teachers then it would produce more negative effects on children .	1
+275	 Tourism : good or bad ?	0
+276	 Tourism , since its first appearance a long time ago , can be described as a controversial celebrity .	0
+277	 Some believe that tourism is attributed to domestic economic distortion , environmental devastation and irrepairable damage to the exploited places .	0
+278	 However , I strongly disagree with this misconcept for the two following reasons .	0
+279	 First of all , tourism plays an indispensable role in nurturing the economy in a way it is meant to be .	1
+280	 Basically , places of interest often locate in the wilderness areas , of which economy , before their appearance , haven ' t blossmed yet .	1
+281	 Not until the investment of some companies do chains of hotels and services spring up .	1
+282	 It will , by all means , attract considerable attention which goes hand in hand with the enormous income for the local residents .	1
+283	 In other word , tourism helps divert the local economy to its right direction , which exploit the best out of its own potential .	1
+284	 Secondly , even though environmental damage is inevitable , it is not tourism to be blamed for .	1
+285	 In order to turn a wilderness into a place of attraction , the planners must have taken the nourishment of the sceneries into thorough consideration .	1
+286	 To be precise , for instance , a fortune is spent on trimming the trees , watering the flowers , preserving and balancing the local fauna and flora , in the hope of beautifying the wild .	1
+287	 Not to mention ecotourism , a new kind of environment - friendly service , which gives all environmentalists and nature lovers a hand in raising the awareness of people in protecting their coexistent creatures .	1
+288	 Because of that , tourism should not be alledged to be notorous for its detriment to the ecological diversity .	1
+289	 All thing considered , tourism has proven its friendly attitude towards the exploited areas in terms of finance and environmental impact .	1
+290	 In my opinion , the combination of tourism and teaching process is highly recommended in pursuit of a harmonial relationship between human and their surroundings .	1
+291	 Vegetarianism - why some people are choosing to become vegetarian ?	0
+292	 Since the dawn of time , human has considered meat as a fundamental protein sources .	0
+293	 Meat has served as the main dish in almost every family ' s meals all around the world .	0
+294	 Recent years , however , has seen a rapid increase in the number of vegetarians .	0
+295	 Some people claim that this is brought about by the care for animal rights issue , others think it is much beyond that .	0
+296	 It is clear to me that people avoid eating meat mostly for the sake of their health and relegious aspect .	1
+297	 Firstly , health improvement is the main reason for vegetarian diet to become so popular .	1
+298	 Many researchers have convinced that many kinds of vegetable contain antioxydant which can prevent cancer .	1
+299	 This fortifies the fact that a vegetable diet can do good for our health .	1
+300	 Although some argue that a meal without meat can lead to a lack of protein intake , it is proved that many kinds of bean such as soy bean or pea are also comparable protein sources .	1
+301	 Secondy , relegious beliefs also contributes to a vegetarian diet .	0
+302	 Some religion , such as Buddha , believes that animals were human being in their previous life , so eating their meat mean you eat the flesh of your parent sentient beings .	1
+303	 It is often said that this view is rather unscientific .	0
+304	 However , I am convinced that it is vital to follow one ' s own religious practices which can bring the enlightenment in mind .	1
+305	 To sum up , it is evident for me that people choose to become vegetarians for health and religious concern rather than the benefits of animals .	1
+306	 However , a meal which is nutritionally balanced is always most recommended .	0
+307	 Life in Big Cities Vs People ' s health	0
+308	 Today , more and more people are moving to big cities to live .	0
+309	 However , while life in those cities is good in some ways , I completely argue that people ' s health would therefore be affected negatively .	1
+310	 Environment pollution one of the primary reasons why life in cities is becoming worse than ever before .	1
+311	 Exhaust from transportation , especially cars , and factories ' tosix fumes can lead people to face with various respiratory deseases .	1
+312	 Besides , water pollution makes people ' s health become more critical .	1
+313	 The fact is that dangerous bacterias and germs in polluted water can go indirectly into people ' s bodies and create severe problems , which may result in death if the patients are not treated in time .	1
+314	 Moreover , it is likely that many foods in big cities are not safe for people to eat or drink .	1
+315	 Recent investigations reveal that toxic foods are sold pervasively in today ' s market .	1
+316	 Also , overpopulation may make people suffer from infectious deseases , especially cough , sneezing and illness .	1
+317	 Furthermore , living in such cities also means living in high crime rate areas .	1
+318	 Unemployed workers or school dropouts can easily commit crime from petty offence to felony such as burglary , pickpocketing , trickery , vandalism , smuggling or even murder .	1
+319	 Earning money for living becomes more difficult , living healthy in such places is getting harder also .	1
+320	 In conclusion , I believe that life in big cities can have negative effects on people ' s health .	1
+321	 Thus , both government and individual should take steps to diminish the consequences involved .	0
+322	 Education plays an important role in the socioeconomic status of a country	0
+323	 Education is undeniably an economic necessity .	0
+324	 In most countries , it makes up a considerable part of its national budget yearly .	0
+325	 In highly industrialized countries , undertakings are made to make it accessible and affordable to all .	0
+326	 I believe that education is the single most important factor in the development of a country .	1
+327	 In a developing country , not many can afford to send their children to school .	1
+328	 There are government schools where tuition fees are practically free but they are not aplenty and mostly are situated in the cities .	1
+329	 They are not reachable by children who live in the mountains or islands .	1
+330	 These children whose parents are either farmers or fishermen , can hardly eat three meals a day , let alone afford to pay for transportation to get to these schools everyday .	1
+331	 As a result , these children remain uneducated and will have the same fate as their parents .	1
+332	 Development through education does not necessarily mean raising a country full of doctors , lawyers or engineers .	0
+333	 Basic education teaches one child to read and write .	1
+334	 Supplementary education provides him with useful knowledge and information .	1
+335	 A further specific education can teach an individual with skills enough to make a living and be self - sufficient .	1
+336	 A well - informed man can act sensibly and make sound judgment .	1
+337	 In the same way , a skillful man contributes favorably and is valuable to the society .	1
+338	 Collectively , the benefits of education can make a man , a society and a developed country .	1
+339	 In conclusion , education plays an important role in the socioeconomic status of a country .	1
+340	 The more people in the country become educated , the better chance it can develop .	1
+341	 A greater proportion of the budget should be allotted to education and prevention issues	0
+342	 In today ' s world , the concept of the welfare state requires governments to provide sustainable healthcare and health education to their citizens .	0
+343	 I completely agree with the idea that governments should devote a greater portion of their health budgets to health education and means for precautions .	1
+344	 The first reason why education and preventative measures should receive a greater budget is the potential improvements in health system .	1
+345	 I believe that decreasing the number of patients in the health system can lead hospitals and healthcare centers to be managed effectively which will result in better treatments for current patients .	1
+346	 Therefore , society should be educated and became aware of health issues so that the potential precautions on the way of illnesses can be taken instead of trying to provide treatment for the increasing number of patients .	1
+347	 The second reason why governments should allocate more budget on prevention from illness and providing health education is the welfare of the society .	1
+348	 In my opinion , there is nothing more important than health in a human ' s life and the happiness and welfare come with health .	1
+349	 Therefore , a government ' s role should be providing means that lead its citizens to learn how to prevent from potential illness that can cause misery in people ' s lives .	1
+350	 For example , the marketing campaign of Ministry of Health in Turkey which aimed smoking problem among the youth increased the well - being of those who quit smoking and adapted a better lifestyle after the campaign .	1
+351	 In conclusion , a greater proportion of the budget should be allotted to education and prevention issues in comparison with treatment due to achieve more effective health system and greater level of well - being .	1
